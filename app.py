@@ -1,1 +1,0 @@
-print("Data Center Monitor started")
